@@ -1,0 +1,14 @@
+transformers
+datasets
+matplotlib
+numpy
+pandas
+seaborn
+typing
+scipy
+collections
+imblearn
+tensorflow
+sklearn
+
+- e .
